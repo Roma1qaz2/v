@@ -1,0 +1,56 @@
+body{
+   width:100%;
+  height:100%;
+background:#212121; 
+background-image: url('data:image/svg+xml,%3Csvg width="42" height="44" viewBox="0 0 42 44" xmlns="http://www.w3.org/2000/svg"%3E%3Cg id="Page-1" fill="none" fill-rule="evenodd"%3E%3Cg id="brick-wall" fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+
+}
+.headed{
+  width:100%;
+  height:50px;
+  background:Black;
+  font-size:30px;
+  border-radius:0px 0px 15px 15px;
+}
+.futer{
+  width:100%;
+  height:250px;
+  float:left;
+  background:Black;
+  margin-top:20px;
+  border-radius:20px;
+}
+.info{
+  width:40%;
+  float:left;
+  margin-left:5%;
+}
+.map{
+  width:20%;
+  float:right;
+  margin-right:5%;
+}
+h1{
+  color:White;
+}
+a{
+  text-align:center;
+  color:White;
+}
+p{
+  text-align:center;
+  color:White;
+}
+b{
+  text-align:center;
+  color:White;
+}
+.box1{
+  width:25%;
+  height:450px; 
+  float:left;
+}
+img{
+  width:100%;
+  height:100%;
+}
